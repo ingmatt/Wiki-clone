@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin: 20px;
+    padding-top: 20px;
+}
+
+form {
+    padding:10px;
+    margin-left: 25px;
+}
+
+h3 {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.main {
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #D3D3D3;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.wikititle {
+    color: black§;
+    font-weight: bold;
+}
